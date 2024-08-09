@@ -17,7 +17,7 @@ Hello! I'm Sunar Mohammed Riyaz, a final-year Computer Science Engineering stude
   - *English:* Intermediate
   - *Kannada:* Intermediate
   - *Hindi:* Intermediate
-- *Soft Skills:* Problem-solving, teamwork, innovation, design thinking
+- *Soft Skills:* Problem-solving, Teamwork, Adaptability
 <!--
 ## Projects
 ### Crime Report Portal
@@ -31,7 +31,7 @@ Hello! I'm Sunar Mohammed Riyaz, a final-year Computer Science Engineering stude
 *Role and Achievements:* Analyzed large datasets, developed predictive algorithms, and integrated these models into a user-accessible platform.
 -->
 ## Relevant Experience
-### Intern - Innovation and Design Thinking
+### Intern - Web Development
 *Company:* Anspro Technology, Bangalore  
 *Dates:* October 2022 (14 days)  
 *Key Responsibilities:*
