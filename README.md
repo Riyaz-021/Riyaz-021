@@ -1,7 +1,7 @@
-## Hi there 👋
+<!--## Hi there 👋
 
 # Sunar Mohammed Riyaz
-
+-->
 ## About Me
 Hello! I'm Sunar Mohammed Riyaz, a final-year Computer Science Engineering student at T John Institute of Technology, Bangalore. I have a strong passion for technology, innovation, and solving real-world problems through coding and design. 
 
@@ -47,9 +47,9 @@ Hello! I'm Sunar Mohammed Riyaz, a final-year Computer Science Engineering stude
 - Gained experience in full-stack development and data processing.
 
 ## Contact Me
-- *Email:* sharieffadam@gmail.com
-- *LinkedIn:* [LinkedIn Profile](https://www.linkedin.com/in/safwaan-sharieff-98632a244)
-- *GitHub:* [GitHub Profile](https://github.com/ADAM-SHARIEFF)
+- *Email:* sunarmohammedriyaz@gmail.com
+- *LinkedIn:* [LinkedIn Profile](www.linkedin.com/in/sunar-mohammed-riyaz-718247250)
+- *GitHub:* [GitHub Profile](https://github.com/Riyaz-021)
 
 <!--
 **Riyaz-021/Riyaz-021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
