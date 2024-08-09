@@ -6,8 +6,9 @@
 Hello! I'm Sunar Mohammed Riyaz, a final-year Computer Science Engineering student at T John Institute of Technology, Bangalore. I have a strong passion for technology, innovation, and solving real-world problems through coding and design. 
 
 ## Skills
-- *Programming Languages:* Python, JavaScript, HTML, CSS
-- *Frameworks and Tools:* Django, Figma, Glide
+- *Programming Languages:* Python, HTML, CSS, JavaScript
+- *Database:* Mysql
+- *Frameworks and Tools:* Django, Figma
 - *Certifications:*
   - Machine Learning using Watson Studio (IBMCE - CEWAST1IN)
   - Cloud Application Developer (IBMCE - CECAD1IN)
